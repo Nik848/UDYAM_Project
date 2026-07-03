@@ -1,0 +1,975 @@
+{
+  "metadata": {
+    "title": "UDYAM REGISTRATION FORM - For New Enterprise who are not Registered yet as MSME",
+    "url": "https://udyamregistration.gov.in/UdyamRegistration.aspx",
+    "timestamp": "2026-07-01T16:32:49.525Z",
+    "totalForms": 1
+  },
+  "steps": [
+    {
+      "tag": "form",
+      "id": "aspnetForm",
+      "className": null,
+      "children": [
+        {
+          "tag": "div",
+          "id": null,
+          "className": "container",
+          "children": []
+        },
+        {
+          "tag": "div",
+          "id": null,
+          "className": "container position-relative d-flex align-items-center justify-content-between",
+          "children": []
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "className": "page-title bg-1",
+          "children": [
+            {
+              "tag": "div",
+              "id": null,
+              "className": "container",
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "className": "section contact-info pb-0",
+          "children": [
+            {
+              "tag": "div",
+              "id": null,
+              "className": "container",
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "section",
+          "id": null,
+          "className": "contact-form-wrap section",
+          "children": [
+            {
+              "tag": "div",
+              "id": null,
+              "className": "container form-section",
+              "children": [
+                {
+                  "tag": "div",
+                  "id": null,
+                  "className": "container",
+                  "children": [
+                    {
+                      "tag": "div",
+                      "id": null,
+                      "className": "form-group",
+                      "children": []
+                    },
+                    {
+                      "tag": "div",
+                      "id": null,
+                      "className": "form-group",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "id": null,
+                  "className": "form-group",
+                  "children": []
+                },
+                {
+                  "tag": "div",
+                  "id": null,
+                  "className": "form-group",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "id": null,
+      "className": "container",
+      "children": []
+    }
+  ],
+  "fields": [
+    {
+      "tag": "input",
+      "id": "__EVENTTARGET",
+      "name": "__EVENTTARGET",
+      "type": "hidden",
+      "label": null,
+      "placeholder": null,
+      "value": null,
+      "autocomplete": null,
+      "tabindex": 0,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": null,
+      "style": null,
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "input",
+      "id": "__EVENTARGUMENT",
+      "name": "__EVENTARGUMENT",
+      "type": "hidden",
+      "label": null,
+      "placeholder": null,
+      "value": null,
+      "autocomplete": null,
+      "tabindex": 0,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": null,
+      "style": null,
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "input",
+      "id": "__VIEWSTATE",
+      "name": "__VIEWSTATE",
+      "type": "hidden",
+      "label": null,
+      "placeholder": null,
+      "value": "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",
+      "autocomplete": null,
+      "tabindex": 0,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": null,
+      "style": null,
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "input",
+      "id": "__VIEWSTATEGENERATOR",
+      "name": "__VIEWSTATEGENERATOR",
+      "type": "hidden",
+      "label": null,
+      "placeholder": null,
+      "value": "5419473E",
+      "autocomplete": null,
+      "tabindex": 0,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": null,
+      "style": null,
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "input",
+      "id": "__VIEWSTATEENCRYPTED",
+      "name": "__VIEWSTATEENCRYPTED",
+      "type": "hidden",
+      "label": null,
+      "placeholder": null,
+      "value": null,
+      "autocomplete": null,
+      "tabindex": 0,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": null,
+      "style": null,
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "input",
+      "id": "__EVENTVALIDATION",
+      "name": "__EVENTVALIDATION",
+      "type": "hidden",
+      "label": null,
+      "placeholder": null,
+      "value": "YWqOWortoh195E9BHz8s7SccwdAfgrK0LeVRdxEfEkXWRTcchzPzEs83yJgruC2hVIF9qHFzbjLjR4uTe5CjKkeEkhdbCMQFguUggK+TzbCaNw6l3VaYAPMnrT5zk1EOtjcY3rX1IqzPe4kccLmJfTu/BWKnifDfT+CgHpOFGDNaHnK+YNMOGmWLeihcURQlZSfxl7J+iXhttshvuquDprHkf1YvD7tI/ccMTdYVkDwMdBQ0M+8Pkw5bPeum1vSDt0nPqg==",
+      "autocomplete": null,
+      "tabindex": 0,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": null,
+      "style": null,
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "input",
+      "id": "ctl00_ContentPlaceHolder1_txtadharno",
+      "name": "ctl00$ContentPlaceHolder1$txtadharno",
+      "type": "text",
+      "label": "1. Aadhaar Number",
+      "placeholder": "Your Aadhaar No",
+      "value": null,
+      "autocomplete": "off",
+      "tabindex": 1,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": 12,
+      "minlength": null,
+      "pattern": null,
+      "className": "form-control",
+      "style": "background-color: #fff",
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "input",
+      "id": "ctl00_ContentPlaceHolder1_txtownername",
+      "name": "ctl00$ContentPlaceHolder1$txtownername",
+      "type": "text",
+      "label": "2. Name of Entrepreneur",
+      "placeholder": "Name as per Aadhaar",
+      "value": null,
+      "autocomplete": "off",
+      "tabindex": 2,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": 100,
+      "minlength": null,
+      "pattern": null,
+      "className": "form-control",
+      "style": "background-color: #fff",
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "input",
+      "id": "ctl00_ContentPlaceHolder1_chkDecarationA",
+      "name": "ctl00$ContentPlaceHolder1$chkDecarationA",
+      "type": "checkbox",
+      "label": null,
+      "placeholder": null,
+      "value": "on",
+      "autocomplete": null,
+      "tabindex": 3,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": null,
+      "style": null,
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "textarea",
+      "id": null,
+      "name": null,
+      "type": "textarea",
+      "label": null,
+      "placeholder": "Describe your issues here...",
+      "value": null,
+      "autocomplete": null,
+      "tabindex": 0,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": "feedback-textarea",
+      "style": "display: none;",
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "input",
+      "id": "suggested-feedback-checkbox",
+      "name": null,
+      "type": "checkbox",
+      "label": "Do you like to give feedback",
+      "placeholder": null,
+      "value": "on",
+      "autocomplete": null,
+      "tabindex": 0,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": null,
+      "style": null,
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    },
+    {
+      "tag": "textarea",
+      "id": null,
+      "name": null,
+      "type": "textarea",
+      "label": "Do you like to give feedback",
+      "placeholder": "Suggested Feedback",
+      "value": null,
+      "autocomplete": null,
+      "tabindex": 0,
+      "required": false,
+      "disabled": false,
+      "readonly": false,
+      "maxlength": null,
+      "minlength": null,
+      "pattern": null,
+      "className": "feedback-suggested-feedback",
+      "style": "display: none;",
+      "title": null,
+      "ariaLabel": null,
+      "dataAttributes": {},
+      "validationAttributes": {},
+      "associatedValidators": []
+    }
+  ],
+  "buttons": [
+    {
+      "tag": "button",
+      "id": null,
+      "name": null,
+      "type": "submit",
+      "text": "English",
+      "value": null,
+      "onclick": null,
+      "className": "bhashini-dropdown-btn",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "id": null,
+      "name": null,
+      "type": "submit",
+      "text": null,
+      "value": null,
+      "onclick": null,
+      "className": "bhashini-feedback-button ",
+      "disabled": false
+    },
+    {
+      "tag": "input",
+      "id": "ctl00_ContentPlaceHolder1_btnValidateAadhaar",
+      "name": "ctl00$ContentPlaceHolder1$btnValidateAadhaar",
+      "type": "submit",
+      "text": "Validate & Generate OTP",
+      "value": "Validate & Generate OTP",
+      "onclick": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ContentPlaceHolder1$btnValidateAadhaar\", \"\", true, \"X\", \"\", false, false))",
+      "className": "btn btn-main btn-round-full",
+      "disabled": false
+    },
+    {
+      "tag": "button",
+      "id": null,
+      "name": null,
+      "type": "submit",
+      "text": "Submit",
+      "value": null,
+      "onclick": null,
+      "className": "submit-feedback",
+      "disabled": false
+    }
+  ],
+  "validators": [
+    {
+      "id": "ctl00_ContentPlaceHolder1_RequiredFieldValidator3",
+      "type": "RequiredFieldValidatorEvaluateIsValid",
+      "targetControl": "ctl00_ContentPlaceHolder1_txtadharno",
+      "errorMessage": "Required",
+      "validationGroup": "X",
+      "validationExpression": null,
+      "initialValue": null,
+      "evaluationFunction": "function RequiredFieldValidatorEvaluateIsValid(val) {\r\n    return (ValidatorTrim(ValidatorGetValue(val.controltovalidate)) != ValidatorTrim(val.initialvalue))\r\n}"
+    },
+    {
+      "id": "ctl00_ContentPlaceHolder1_RequiredFieldValidator10",
+      "type": "RequiredFieldValidatorEvaluateIsValid",
+      "targetControl": "ctl00_ContentPlaceHolder1_txtownername",
+      "errorMessage": "Required",
+      "validationGroup": "X",
+      "validationExpression": null,
+      "initialValue": null,
+      "evaluationFunction": "function RequiredFieldValidatorEvaluateIsValid(val) {\r\n    return (ValidatorTrim(ValidatorGetValue(val.controltovalidate)) != ValidatorTrim(val.initialvalue))\r\n}"
+    },
+    {
+      "id": "ctl00_ContentPlaceHolder1_CustomValidator3",
+      "type": "CustomValidatorEvaluateIsValid",
+      "targetControl": null,
+      "errorMessage": "You must Agree Declarations.",
+      "validationGroup": "X",
+      "validationExpression": null,
+      "initialValue": null,
+      "evaluationFunction": "function CustomValidatorEvaluateIsValid(val) {\r\n    var value = \"\";\r\n    if (typeof(val.controltovalidate) == \"string\") {\r\n        value = ValidatorGetValue(val.controltovalidate);\r\n        if ((ValidatorTrim(value).length == 0) &&\r\n            ((typeof(val.validateemptytext) != \"string\") || (val.validateemptytext != \"true\"))) {\r\n            return true;\r\n        }\r\n    }\r\n    var args = { Value:value, IsValid:true };\r\n    if (typeof(val.clientvalidationfunction) == \"string\") {\r\n        eval(val.clientvalidationfunction + \"(val, args) ;\");\r\n    }\r\n    return args.IsValid;\r\n}"
+    }
+  ],
+  "scripts": [
+    {
+      "id": "script_0",
+      "src": "https://www.google-analytics.com/analytics.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_1",
+      "src": "https://www.googletagmanager.com/gtag/js?id=G-78BEQKKVYD&cx=c&gtm=4e66u0h2",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_2",
+      "src": "js/analytics.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_3",
+      "src": "https://www.googletagmanager.com/gtag/js?id=UA-166958537-1",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_4",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "window.dataLayer = window.dataLayer || [];\n        function gtag() { dataLayer.push(arguments); }\n        gtag('js', new Date());\n\n        gtag('config', 'UA-166958537-1');",
+      "categories": [],
+      "functions": [
+        "gtag"
+      ]
+    },
+    {
+      "id": "script_5",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "//<![CDATA[\nvar theForm = document.forms['aspnetForm'];\nif (!theForm) {\n    theForm = document.aspnetForm;\n}\nfunction __doPostBack(eventTarget, eventArgument) {\n    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {\n        theForm.__EVENTTARGET.value = eventTarget;\n        theForm.__EVENTARGUMENT.value = eventArgument;\n        theForm.submit();\n    }\n}\n//]]>",
+      "categories": [
+        "postback"
+      ],
+      "functions": [
+        "__doPostBack"
+      ]
+    },
+    {
+      "id": "script_6",
+      "src": "/WebResource.axd?d=BayMCezD8XvrvgveJL7NURf1ZwggoPVyM7Azy9RELEDeozEDadElOKK1OmtKleKTbkwC5MxyRR4izP-NhA9-m7Rjzn41&t=638901734248157332",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_7",
+      "src": "/ScriptResource.axd?d=ZRl_HRH7Wke0zmP7SmEl0sZYQXajrBJXxRRKjecVYNtNYMy970nsJzRLuzMB4em4VfayNHJ4H9CGAykq7nZ0wW8jveyMIDdfhyPPp_mKh1BNWQNSyuGxRH5Fx3QYOGkZ9MLAp5iOSpeNH9WYOQHe5Mey8LM1&t=ffffffff93d1c106",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_8",
+      "src": "/ScriptResource.axd?d=wJnzxp0_m1SB-YAFiWkIS5lBQOu6-aGTs4O0936AXRLhJopOAQDy77cWy9M8iuJuYWVVERzlo-fV67qLqByqeWG50adXc-lGyyKJu7KBLjDfIpl3RDjDwG09nZLDKY-7mIzagA5kCmoIvB5Y-Qr2l_FneovT3UcL8teUuZAOG2VTW_Pq0&t=5c0e0825",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_9",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "//<![CDATA[\nif (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');\n//]]>",
+      "categories": []
+    },
+    {
+      "id": "script_10",
+      "src": "/ScriptResource.axd?d=zABiVb7D3T0BdA9J0RGsfaLu3u6fThVB8rxWP6kp0ac4IiK2cfyYcF4mR1_IYl25jsTyEwptCh02u4uvxB88dSrdQsxO8xcw0_itkaG7UdiAwsZJNp1O-dn776W1imY5BVi5SpJh94AIEBgltpj-h7F8eUGk_yn_63ebSm-hWH_jer3m0&t=5c0e0825",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_11",
+      "src": "/ScriptResource.axd?d=SZAF229YE1BzUkr8dWnGQ6frmjznn1s--Ayb928-6iH4oYBE-Qy3B5qaj76OOAIXHRT9xclKyJkAnJ8zbBT0o0xv9NfEZoQU4OfZAmAJCmzIkBdm1iwpgBtjjsyvGLlq_uchjjXsDeykbOHzgRR7SMhYeXo1&t=ffffffffe6d5c1dc",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_12",
+      "src": "/ScriptResource.axd?d=4WMj220ly8_LUuALPAEmhGazPiiGtzj_Fizqr8BSkaDvfljcR_Z4WWRNq_NlZGCwJ9hvvlnquoe9-zmDIBA9ukY-pHR0i3nKuv__iIgT8qVcVUdseCNVwKYVLQ4dUUe3kykDp5rSkgz_xDMvvo7rDa_OFjc1&t=ffffffffe6d5c1dc",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_13",
+      "src": "/ScriptResource.axd?d=leAbOU-Oohss4A1vmGoupOz81ye78rpVL51k4dII8hYcU9OAEfMTUsf-LaI1WH23plSxyCNkZUrDY0xqGrAxxyKmjfLAbt8x7KVj2bYPOgUt6KjMde2ukT0xsWqiMSvz0yITN98BdktmGLbR715vjaaaSWhvyAtOlYPURCThDu1IPZwR0&t=ffffffffe6d5c1dc",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_14",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "//<![CDATA[\nfunction WebForm_OnSubmit() {\nif (typeof(ValidatorOnSubmit) == \"function\" && ValidatorOnSubmit() == false) return false;\nreturn true;\n}\n//]]>",
+      "categories": [
+        "validation"
+      ],
+      "functions": [
+        "WebForm_OnSubmit"
+      ]
+    },
+    {
+      "id": "script_15",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "//<![CDATA[\nSys.WebForms.PageRequestManager._initialize('ctl00$sm', 'aspnetForm', ['tctl00$ContentPlaceHolder1$UpdatePaneldd1',''], [], [], 90, 'ctl00');\n//]]>",
+      "categories": [
+        "pan"
+      ]
+    },
+    {
+      "id": "script_16",
+      "src": "/vendor/main.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_17",
+      "src": "https://translation-plugin.bhashini.co.in/v4/website_translation_utility.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_18",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "function Call_Map() {\n            window.open('latlongtest.aspx?id=' + document.getElementById('ctl00_ContentPlaceHolder1_hdndtcode').value, '_blank', 'width=900,height=600, scrollbars=no,resizable=no');\n        }",
+      "categories": [],
+      "functions": [
+        "Call_Map"
+      ]
+    },
+    {
+      "id": "script_19",
+      "src": "js/datecheck.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_20",
+      "src": "bootstrap4/plugins/jquery/jquery.min.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_21",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "function masking(input, textbox) {\n            if (input.length == 4 || input.length == 9) {\n                input = input + '-';\n                textbox.value = input;\n            }\n        }",
+      "categories": [],
+      "functions": [
+        "masking"
+      ]
+    },
+    {
+      "id": "script_22",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "function DepCostWord() {\n            var tValue = document.getElementById('ctl00_ContentPlaceHolder1_txtDepCost').value;\n            if (tValue.length != 0) {\n                var finalWord = price_in_words(tValue);\n                document.getElementById('spanDepreciatedCost').innerHTML = '';\n                document.getElementById('spanDepreciatedCost').innerHTML = finalWord;\n            }\n            else { document.getElementById('spanDepreciatedCost').innerHTML = ''; }\n        }\n\n        function ExCostWord() {\n            var tValue = document.getElementById('ctl00_ContentPlaceHolder1_txtExCost').value;\n            if (tValue.length != 0) {\n                var finalWord = price_in_words(tValue);\n                document.getElementById('spanExclusionCost').innerHTML = '';\n                document.getElementById('spanExclusionCost').innerHTML = finalWord;\n            }\n            else { document.getElementById('spanExclusionCost').innerHTML = ''; }\n        }\n\n        function ExTurnoverAWord() {\n            var tValue = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverA').value;\n            if (tValue.length != 0) {\n                var finalWord = price_in_words(tValue);\n                document.getElementById('spanTotalTurnoverA').innerHTML = '';\n                document.getElementById('spanTotalTurnoverA').innerHTML = finalWord;\n            }\n            else { document.getElementById('spanTotalTurnoverA').innerHTML = ''; }\n        }\n\n        function ExTurnoverBWord() {\n            var tValue = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverB').value;\n            if (tValue.length != 0) {\n                var finalWord = price_in_words(tValue);\n                document.getElementById('spanTotalTurnoverB').innerHTML = '';\n                document.getElementById('spanTotalTurnoverB').innerHTML = finalWord;\n            }\n            else { document.getElementById('spanTotalTurnoverB').innerHTML = ''; }\n        }\n\n        function price_in_words(price) {\n            var sglDigit = [\"Zero\", \"One\", \"Two\", \"Three\", \"Four\", \"Five\", \"Six\", \"Seven\", \"Eight\", \"Nine\"],\n                dblDigit = [\"Ten\", \"Eleven\", \"Twelve\", \"Thirteen\", \"Fourteen\", \"Fifteen\", \"Sixteen\", \"Seventeen\", \"Eighteen\", \"Nineteen\"],\n                tensPlace = [\"\", \"Ten\", \"Twenty\", \"Thirty\", \"Forty\", \"Fifty\", \"Sixty\", \"Seventy\", \"Eighty\", \"Ninety\"],\n                handle_tens = function (dgt, prevDgt) {\n                    return 0 == dgt ? \"\" : \" \" + (1 == dgt ? dblDigit[prevDgt] : tensPlace[dgt])\n                },\n                handle_utlc = function (dgt, nxtDgt, denom) {\n                    return (0 != dgt && 1 != nxtDgt ? \" \" + sglDigit[dgt] : \"\") + (0 != nxtDgt || dgt > 0 ? \" \" + denom : \"\")\n                };\n\n            var str = \"\",\n                digitIdx = 0,\n                digit = 0,\n                nxtDigit = 0,\n                words = [];\n            if (price += \"\", isNaN(parseInt(price))) str = \"\";\n            else if (parseInt(price) > 0 && price.length <= 10) {\n                for (digitIdx = price.length - 1; digitIdx >= 0; digitIdx--) switch (digit = price[digitIdx] - 0, nxtDigit = digitIdx > 0 ? price[digitIdx - 1] - 0 : 0, price.length - digitIdx - 1) {\n                    case 0:\n                        words.push(handle_utlc(digit, nxtDigit, \"\"));\n                        break;\n                    case 1:\n                        words.push(handle_tens(digit, price[digitIdx + 1]));\n                        break;\n                    case 2:\n                        words.push(0 != digit ? \" \" + sglDigit[digit] + \" Hundred\" + (0 != price[digitIdx + 1] && 0 != price[digitIdx + 2] ? \" and\" : \"\") : \"\");\n                        break;\n                    case 3:\n                        words.push(handle_utlc(digit, nxtDigit, \"Thousand\"));\n                        break;\n                    case 4:\n                        words.push(handle_tens(digit, price[digitIdx + 1]));\n                        break;\n                    case 5:\n                        words.push(handle_utlc(digit, nxtDigit, \"Lakh\"));\n                        break;\n                    case 6:\n                        words.push(handle_tens(digit, price[digitIdx + 1]));\n                        break;\n                    case 7:\n                        words.push(handle_utlc(digit, nxtDigit, \"Crore\"));\n                        break;\n                    case 8:\n                        words.push(handle_tens(digit, price[digitIdx + 1]));\n                        break;\n                    case 9:\n                        words.push(0 != digit ? \" \" + sglDigit[digit] + \" Hundred\" + (0 != price[digitIdx + 1] || 0 != price[digitIdx + 2] ? \" and\" : \" Crore\") : \"\")\n                }\n                str = words.reverse().join(\"\")\n            } else str = \"\";\n            return str\n        }\n\n        function ValidateDate(osrc, args) {\n            var dt = args.Value\n            if (isDate(dt) == false) {\n\n                args.IsValid = false;\n                return false\n            }\n            else {\n                args.IsValid = true;\n                return true\n            }\n        }\n\n        function toASCII(source, args) {\n            var r1 = 0, r2 = 0;\n            for (var i = 0; i < args.Value.length; i++) {\n                r = args.Value.charCodeAt(i);\n                if ((r >= 32 && r <= 127) || r == 8 || r == 9 || r == 13 || r == 10) {\n                    r1 = 1;\n                }\n                else {\n                    r2 = 1;\n                    break;\n                }\n            }\n            if (r2 > 0) {\n                args.IsValid = false;\n                return false;\n            }\n            else {\n                args.IsValid = true;\n                return true;\n            }\n        }\n        function showDate(sender, args) {\n            if (sender._textbox.get_element().value == \"\") {\n                var todayDate = new Date();\n                sender._selectedDate = new Date(todayDate.setFullYear(todayDate.getFullYear()));\n            }\n        }\n\n        function ChngDateFormat(dtStr) {\n            var dtCh = \"/\";\n            var pos1 = dtStr.indexOf(dtCh)\n            var pos2 = dtStr.indexOf(dtCh, pos1 + 1)\n            var strMonth = dtStr.substring(pos1 + 1, pos2)\n            var strDay = dtStr.substring(0, pos1)\n            var strYear = dtStr.substring(pos2 + 1)\n            dtStr = strMonth + '/' + strDay + '/' + strYear;\n            return dtStr;\n        }\n\n        function calc_dateIncop(txt1) {\n            var txtdateIncorporation = new Date(ChngDateFormat(document.getElementById('ctl00_ContentPlaceHolder1_txtdateIncorporation').value));\n            var today = new Date();\n            var dd = today.getDate();\n            var mm = today.getMonth() + 1;\n            var yyyy = today.getFullYear();\n            if (dd < 10) {\n                dd = '0' + dd;\n            }\n            if (mm < 10) {\n                mm = '0' + mm;\n            }\n            var today = new Date(mm + '/' + dd + '/' + yyyy);\n            if (txtdateIncorporation >= today) {\n                alert('You can not select current & future Date ');\n                document.getElementById(txt1).value = '';\n                //  document.getElementById(txt1).focus();\n                return false;\n            }\n            return true;\n        }\n\n        function calc_dateComes(txt1) {\n            var txtcommencedate = new Date(ChngDateFormat(document.getElementById('ctl00_ContentPlaceHolder1_txtcommencedate').value));\n            var txtdateIncorporation = new Date(ChngDateFormat(document.getElementById('ctl00_ContentPlaceHolder1_txtdateIncorporation').value));\n            var today = new Date();\n            var dd = today.getDate();\n            var mm = today.getMonth() + 1;\n            var yyyy = today.getFullYear();\n            if (dd < 10) {\n                dd = '0' + dd;\n            }\n            if (mm < 10) {\n                mm = '0' + mm;\n            }\n            var today = new Date(mm + '/' + dd + '/' + yyyy);\n            if (txtcommencedate >= today) {\n                alert('You can not select current & future Date ');\n                document.getElementById(txt1).value = '';\n                // document.getElementById(txt1).focus();\n                return false;\n            }\n            if (txtdateIncorporation > txtcommencedate) {\n                alert('Date of Commencment is not earlier than Date of Incorporation ');\n                document.getElementById(txt1).value = '';\n                // document.getElementById(txt1).focus();\n                return false;\n            }\n            return true;\n        }\n\n        function calc_dateDob(txt1) {\n            var txtdob = new Date(ChngDateFormat(document.getElementById('ctl00_ContentPlaceHolder1_txtdob').value));\n            var today = new Date();\n            var dd = today.getDate();\n            var mm = today.getMonth() + 1;\n            var yyyy = today.getFullYear();\n            if (dd < 10) {\n                dd = '0' + dd;\n            }\n            if (mm < 10) {\n                mm = '0' + mm;\n            }\n            var today = new Date(mm + '/' + dd + '/' + yyyy);\n            if (txtdob > today) {\n                alert('You can not select future Date ');\n                document.getElementById(txt1).value = '';\n                // document.getElementById(txt1).focus();\n                return false;\n            }\n            return true;\n        }",
+      "categories": [
+        "pan"
+      ],
+      "functions": [
+        "DepCostWord",
+        "ExCostWord",
+        "ExTurnoverAWord",
+        "ExTurnoverBWord",
+        "price_in_words",
+        "ValidateDate",
+        "toASCII",
+        "showDate",
+        "ChngDateFormat",
+        "calc_dateIncop",
+        "calc_dateComes",
+        "calc_dateDob"
+      ]
+    },
+    {
+      "id": "script_23",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "var id = 0;\n        function CaptchaRefresh(img, src) {\n\n            id++;\n            document.getElementById(img).src = src + \"?id=\" + id;\n\n        }",
+      "categories": [],
+      "functions": [
+        "CaptchaRefresh"
+      ]
+    },
+    {
+      "id": "script_24",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "function checkDate(sender, args) {\n            if (sender._selectedDate > new Date()) {\n                alert(\"You cannot select future date!\");\n                //sender._selectedDate = new Date();\n                // set the date back to the current date ....\n                document.getElementById(\"ctl00_ContentPlaceHolder1_txtcommencedate\").value = \"\"\n                document.getElementById('').value = \"\";\n                //you can put the if condition for sunday's\n                sender._textbox.set_Value(sender._selectedDate.format(sender._format))\n            }\n        }\n        function checkIncorporationDate(sender, args) {\n            if (sender._selectedDate > new Date()) {\n                alert(\"You cannot select future date!\");\n                //sender._selectedDate = new Date();\n                // set the date back to the current date ....\n                document.getElementById(\"ctl00_ContentPlaceHolder1_txtdateIncorporation\").value = \"\"\n                document.getElementById('').value = \"\";\n                //you can put the if condition for sunday's\n                sender._textbox.set_Value(sender._selectedDate.format(sender._format))\n            }\n        }",
+      "categories": [],
+      "functions": [
+        "checkDate",
+        "checkIncorporationDate"
+      ]
+    },
+    {
+      "id": "script_25",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "function resetValidationState() {\n            window.Page_BlockSubmit = false;\n        }\n        function CountGridRowActivity(source, args) {\n            var gvRegProduct = document.getElementById('ctl00_ContentPlaceHolder1_hdnRegProduct').value;\n            if (gvRegProduct == 0) {\n                args.IsValid = false;\n                return false;\n            }\n            else {\n                args.IsValid = true;\n                return true;\n            }\n        }\n\n        function CountGridRowPlant(source, args) {\n            var gvRegPlant = document.getElementById('ctl00_ContentPlaceHolder1_hdnRegPlant').value;\n            if (gvRegPlant == 0) {\n                args.IsValid = false;\n                return false;\n            }\n            else {\n                args.IsValid = true;\n                return true;\n            }\n        }\n\n        function CaculateEmp() {\n            var personMale = document.getElementById('ctl00_ContentPlaceHolder1_txtNoofpersonMale').value;\n            var personFemale = document.getElementById('ctl00_ContentPlaceHolder1_txtNoofpersonFemale').value;\n            var personOthers = document.getElementById('ctl00_ContentPlaceHolder1_txtNoofpersonOthers').value;\n            if (personMale == \"\")\n                personMale = 0;\n            if (personFemale == \"\")\n                personFemale = 0;\n            if (personOthers == \"\")\n                personOthers = 0;\n            var result = parseInt(personMale) + parseInt(personFemale) + parseInt(personOthers);\n            if (!isNaN(result)) {\n                document.getElementById('ctl00_ContentPlaceHolder1_txttotalemp').value = result;\n            }\n        }\n\n        function CaculateTurnover() {\n            var TTurnoverA = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverA').value;\n            var TTurnoverB = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverB').value;\n\n            if (TTurnoverA == \"\")\n                TTurnoverA = 0;\n            if (TTurnoverB == \"\")\n                TTurnoverB = 0;\n\n            var result = parseInt(TTurnoverA) - parseInt(TTurnoverB);\n            if (!isNaN(result)) {\n                if (result < 0) {\n                    document.getElementById('ctl00_ContentPlaceHolder1_txtNetTurnover').value = 0;\n                }\n                else\n                    document.getElementById('ctl00_ContentPlaceHolder1_txtNetTurnover').value = result;\n            }\n        }\n\n        function CaculateInvestment() {\n            var TDepA = document.getElementById('ctl00_ContentPlaceHolder1_txtDepCost').value;\n            var TExB = document.getElementById('ctl00_ContentPlaceHolder1_txtExCost').value;\n\n            if (TDepA == \"\")\n                TDepA = 0;\n            if (TExB == \"\")\n                TExB = 0;\n\n            var result = parseInt(TDepA) - parseInt(TExB);\n            if (!isNaN(result)) {\n                if (parseInt(TDepA) < parseInt(TExB)) {\n                    document.getElementById('ctl00_ContentPlaceHolder1_txtNetInvestmentcost').value = 0;\n                } else {\n\n                    document.getElementById('ctl00_ContentPlaceHolder1_txtNetInvestmentcost').value = result;\n                }\n            }\n        }",
+      "categories": [],
+      "functions": [
+        "resetValidationState",
+        "CountGridRowActivity",
+        "CountGridRowPlant",
+        "CaculateEmp",
+        "CaculateTurnover",
+        "CaculateInvestment"
+      ]
+    },
+    {
+      "id": "script_26",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "function ConfirmSubmit() {\n            var flag = Page_ClientValidate('X');\n            if (flag)\n                flag = Page_ClientValidate('XP');\n            if (flag)\n                flag = Page_ClientValidate('XG');\n\n            if (flag)\n                flag = Page_ClientValidate('Y');\n            if (flag) {\n                if (Page_IsValid) {\n                    return confirm('Are you sure that you have entered correct data. Please check your mobile number is correct?');\n                }\n            }\n            return Page_IsValid;\n        }\n        function ConfirmSubmitfinal() {\n\n\n            var flag = Page_ClientValidate('Y');\n            if (flag)\n                flag = Page_ClientValidate('Z');\n\n            if (flag) {\n                if (Page_IsValid) {\n                    return confirm('Are you sure that you have entered correct data. After submit you will not able to change data?');\n                }\n            }\n            return Page_IsValid;\n\n\n        }",
+      "categories": [
+        "validation"
+      ],
+      "functions": [
+        "ConfirmSubmit",
+        "ConfirmSubmitfinal"
+      ]
+    },
+    {
+      "id": "script_27",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "function ClientValidatePan(source, arguments) {\n\n            var txt = document.getElementById('ctl00_ContentPlaceHolder1_txtPan');\n            var ddl = document.getElementById('ctl00_ContentPlaceHolder1_ddlTypeofOrg');\n            var decision = ddl.value;\n            if (decision == \"2\" || decision == \"3\" || decision == \"4\" || decision == \"5\" || decision == \"6\" || decision == \"7\" || decision == \"8\" || decision == \"9\" || decision == \"10\" || decision == \"11\") {\n                if (txt.value == '') {\n                    arguments.IsValid = false;\n                    return false;\n                }\n                else {\n                    arguments.IsValid = true;\n                    return true;\n                }\n            } else {\n                arguments.IsValid = true;\n                return true;\n            }\n        }\n        // function ValidateTurnover(source, args) {\n        //var TTurnoverA = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverA').value;\n\n\n        // if (TTurnoverA.value > 4000000) {\n        //args.IsValid = false;\n        // return false;\n        //  }\n        // else {\n        //     args.IsValid = true;\n        //     return true;\n        // }\n        // }\n\n        function ValidateTurnover(source, args) {\n            var chkLista = document.getElementById(\"ctl00_ContentPlaceHolder1_rblWhetherGstn\").getElementsByTagName(\"input\");\n            var TTurnoverA = document.getElementById(\"ctl00_ContentPlaceHolder1_txtTotalTurnoverA\").value;\n            if (TTurnoverA > 4000000 && chkLista[1].checked) {\n                args.IsValid = false;\n                return false;\n            }\n            else {\n                args.IsValid = true;\n                return true;\n            }\n        }",
+      "categories": [
+        "pan"
+      ],
+      "functions": [
+        "ClientValidatePan",
+        "ValidateTurnover",
+        "ValidateTurnover"
+      ]
+    },
+    {
+      "id": "script_28",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "function checkAgreement(source, args) {\n            var chkAgree = document.getElementById('ctl00_ContentPlaceHolder1_chkDecaration');\n            if (chkAgree.checked) {\n                args.IsValid = true;\n            }\n            else {\n                args.IsValid = false;\n            }\n        }\n\n        function checkAgreementA(source, args) {\n            var chkAgree = document.getElementById('ctl00_ContentPlaceHolder1_chkDecarationA');\n            if (chkAgree.checked) {\n                args.IsValid = true;\n            }\n            else {\n                args.IsValid = false;\n            }\n        }\n\n        function checkAgreementP(source, args) {\n            var chkAgree = document.getElementById('ctl00_ContentPlaceHolder1_chkDecarationP');\n            if (chkAgree.checked) {\n                args.IsValid = true;\n            }\n            else {\n                args.IsValid = false;\n            }\n        }",
+      "categories": [],
+      "functions": [
+        "checkAgreement",
+        "checkAgreementA",
+        "checkAgreementP"
+      ]
+    },
+    {
+      "id": "script_29",
+      "src": "https://www.googletagmanager.com/gtag/js?id=UA-166958537-1",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_30",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "window.dataLayer = window.dataLayer || [];\n        function gtag() { dataLayer.push(arguments); }\n        gtag('js', new Date());\n\n        gtag('config', 'UA-166958537-1');",
+      "categories": [],
+      "functions": [
+        "gtag"
+      ]
+    },
+    {
+      "id": "script_31",
+      "src": "js/jquery-3.7.1.min.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_32",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "function EmailAvailability() {\n            $.ajax({\n                type: \"POST\",\n                url: \"UdyamRegistration.aspx/CheckEmail\",\n                data: '{email: \"' + $(\"#ctl00_ContentPlaceHolder1_txtemail\")[0].value + '\" }',\n                contentType: \"application/json; charset=utf-8\",\n                dataType: \"json\",\n                success: OnSuccessEmail,\n                failure: function (response) {\n                    alert(response);\n                }\n            });\n        }\n\n        function OnSuccessEmail(response) {\n            var msg = $(\"#ctl00_ContentPlaceHolder1_lblEmail\")[0];\n            switch (response.d) {\n                case \"true\":\n                    msg.style.display = \"block\";\n                    msg.style.color = \"green\";\n                    msg.innerHTML = \"\";\n                    break;\n                case \"false\":\n                    msg.style.display = \"block\";\n                    msg.style.color = \"red\";\n                    msg.innerHTML = \"Registration with this Email has already done 5 times.\";\n                    $(\"#ctl00_ContentPlaceHolder1_txtemail\")[0].value = \"\";\n                    $(\"#ctl00_ContentPlaceHolder1_txtemail\")[0].focus();\n                    break;\n            }\n        }\n\n        function MobileAvailability() { //This function call on text change.             \n            $.ajax({\n                type: \"POST\",\n                url: \"UdyamRegistration.aspx/CheckMobile\", // this for calling the web method function in cs code.  \n                data: '{mobile: \"' + $(\"#ctl00_ContentPlaceHolder1_txtmobile\")[0].value + '\" }', //  email value  \n                contentType: \"application/json; charset=utf-8\",\n                dataType: \"json\",\n                success: OnSuccessMobile,\n                failure: function (response) {\n                    alert(response);\n                }\n            });\n        }\n        function OnSuccessMobile(response) {\n            var msg = $(\"#ctl00_ContentPlaceHolder1_lblMobile\")[0];\n            switch (response.d) {\n                case \"true\":\n                    msg.style.display = \"block\";\n                    msg.style.color = \"green\";\n                    msg.innerHTML = \"\";\n                    break;\n                case \"false\":\n                    msg.style.display = \"block\";\n                    msg.style.color = \"red\";\n                    msg.innerHTML = \"Registration with this Mobile No. has already done 5 times.\";\n                    $(\"#ctl00_ContentPlaceHolder1_txtmobile\")[0].value = \"\";\n                    $(\"#ctl00_ContentPlaceHolder1_txtmobile\")[0].focus();\n                    break;\n            }\n        }",
+      "categories": [],
+      "functions": [
+        "EmailAvailability",
+        "OnSuccessEmail",
+        "MobileAvailability",
+        "OnSuccessMobile"
+      ]
+    },
+    {
+      "id": "script_33",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "//<![CDATA[\nvar Page_Validators =  new Array(document.getElementById(\"ctl00_ContentPlaceHolder1_RequiredFieldValidator3\"), document.getElementById(\"ctl00_ContentPlaceHolder1_RequiredFieldValidator10\"), document.getElementById(\"ctl00_ContentPlaceHolder1_CustomValidator3\"));\n//]]>",
+      "categories": [
+        "validation"
+      ]
+    },
+    {
+      "id": "script_34",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "//<![CDATA[\nvar ctl00_ContentPlaceHolder1_RequiredFieldValidator3 = document.all ? document.all[\"ctl00_ContentPlaceHolder1_RequiredFieldValidator3\"] : document.getElementById(\"ctl00_ContentPlaceHolder1_RequiredFieldValidator3\");\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.controltovalidate = \"ctl00_ContentPlaceHolder1_txtadharno\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.focusOnError = \"t\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.errormessage = \"Required\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.display = \"Dynamic\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.validationGroup = \"X\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.evaluationfunction = \"RequiredFieldValidatorEvaluateIsValid\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.initialvalue = \"\";\nvar ctl00_ContentPlaceHolder1_RequiredFieldValidator10 = document.all ? document.all[\"ctl00_ContentPlaceHolder1_RequiredFieldValidator10\"] : document.getElementById(\"ctl00_ContentPlaceHolder1_RequiredFieldValidator10\");\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.controltovalidate = \"ctl00_ContentPlaceHolder1_txtownername\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.focusOnError = \"t\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.errormessage = \"Required\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.display = \"Dynamic\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.validationGroup = \"X\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.evaluationfunction = \"RequiredFieldValidatorEvaluateIsValid\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.initialvalue = \"\";\nvar ctl00_ContentPlaceHolder1_CustomValidator3 = document.all ? document.all[\"ctl00_ContentPlaceHolder1_CustomValidator3\"] : document.getElementById(\"ctl00_ContentPlaceHolder1_CustomValidator3\");\nctl00_ContentPlaceHolder1_CustomValidator3.focusOnError = \"t\";\nctl00_ContentPlaceHolder1_CustomValidator3.errormessage = \"You must Agree Declarations.\";\nctl00_ContentPlaceHolder1_CustomValidator3.display = \"Dynamic\";\nctl00_ContentPlaceHolder1_CustomValidator3.validationGroup = \"X\";\nctl00_ContentPlaceHolder1_CustomValidator3.evaluationfunction = \"CustomValidatorEvaluateIsValid\";\nctl00_ContentPlaceHolder1_CustomValidator3.clientvalidationfunction = \"checkAgreementA\";\n//]]>",
+      "categories": [
+        "validation"
+      ]
+    },
+    {
+      "id": "script_35",
+      "src": null,
+      "type": "text/javascript",
+      "isInline": true,
+      "content": "//<![CDATA[\n\nvar Page_ValidationActive = false;\nif (typeof(ValidatorOnLoad) == \"function\") {\n    ValidatorOnLoad();\n}\n\nfunction ValidatorOnSubmit() {\n    if (Page_ValidationActive) {\n        return ValidatorCommonOnSubmit();\n    }\n    else {\n        return true;\n    }\n}\n        Sys.Application.add_init(function() {\n    $create(AjaxControlToolkit.FilteredTextBoxBehavior, {\"FilterType\":2,\"id\":\"ctl00_ContentPlaceHolder1_FilteredTextBoxExtender4\"}, null, null, $get(\"ctl00_ContentPlaceHolder1_txtadharno\"));\n});\n\ndocument.getElementById('ctl00_ContentPlaceHolder1_RequiredFieldValidator3').dispose = function() {\n    Array.remove(Page_Validators, document.getElementById('ctl00_ContentPlaceHolder1_RequiredFieldValidator3'));\n}\n\ndocument.getElementById('ctl00_ContentPlaceHolder1_RequiredFieldValidator10').dispose = function() {\n    Array.remove(Page_Validators, document.getElementById('ctl00_ContentPlaceHolder1_RequiredFieldValidator10'));\n}\n\ndocument.getElementById('ctl00_ContentPlaceHolder1_CustomValidator3').dispose = function() {\n    Array.remove(Page_Validators, document.getElementById('ctl00_ContentPlaceHolder1_CustomValidator3'));\n}\nSys.Application.add_init(function() {\n    $create(Sys.UI._UpdateProgress, {\"associatedUpdatePanelId\":\"ctl00_ContentPlaceHolder1_UpdatePaneldd1\",\"displayAfter\":500,\"dynamicLayout\":true}, null, null, $get(\"ctl00_ContentPlaceHolder1_UpdateProgress4\"));\n});\n//]]>",
+      "categories": [
+        "validation",
+        "pan"
+      ],
+      "functions": [
+        "ValidatorOnSubmit"
+      ]
+    },
+    {
+      "id": "script_36",
+      "src": "nd/assets/plugins/jquery/jquery.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_37",
+      "src": "nd/assets/plugins/bootstrap/js/popper.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_38",
+      "src": "nd/assets/plugins/bootstrap/js/bootstrap.min.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_39",
+      "src": "nd/assets/plugins/counterup/jquery.easing.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_40",
+      "src": "nd/assets/plugins/slick-carousel/slick/slick.min.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_41",
+      "src": "nd/assets/plugins/counterup/jquery.waypoints.min.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_42",
+      "src": "nd/assets/plugins/shuffle/shuffle.min.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_43",
+      "src": "nd/assets/plugins/counterup/jquery.counterup.min.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_44",
+      "src": "nd/assets/plugins/google-map/map.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_45",
+      "src": "nd/assets/js/script.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_46",
+      "src": "nd/assets/js/contact.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    },
+    {
+      "id": "script_47",
+      "src": "https://translation-plugin.bhashini.co.in/v4/website_translation_utility.js",
+      "type": "text/javascript",
+      "isInline": false,
+      "content": null,
+      "categories": []
+    }
+  ],
+  "events": [
+    {
+      "id": "ctl00_ContentPlaceHolder1_btnValidateAadhaar",
+      "tag": "input",
+      "event": "onclick",
+      "handler": "javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(\"ctl00$ContentPlaceHolder1$btnValidateAadhaar\", \"\", true, \"X\", \"\", false, false))"
+    },
+    {
+      "id": null,
+      "tag": "a",
+      "event": "onclick",
+      "handler": "return confirm('You will be transferred to an external web site not controlled by MoMSME. MoMSME is not responsible for any of the info or services provided by this web site. \\nAre you sure you want to proceed?')"
+    },
+    {
+      "id": null,
+      "tag": "a",
+      "event": "onclick",
+      "handler": "return confirm('You will be transferred to an external web site not controlled by MoMSME. MoMSME is not responsible for any of the info or services provided by this web site. \\nAre you sure you want to proceed?')"
+    },
+    {
+      "id": null,
+      "tag": "a",
+      "event": "onclick",
+      "handler": "return confirm('You will be transferred to an external web site not controlled by MoMSME. MoMSME is not responsible for any of the info or services provided by this web site. \\nAre you sure you want to proceed?')"
+    }
+  ]
+}

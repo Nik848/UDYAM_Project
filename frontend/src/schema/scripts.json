@@ -1,0 +1,475 @@
+[
+  {
+    "id": "script_0",
+    "src": "https://www.google-analytics.com/analytics.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_1",
+    "src": "https://www.googletagmanager.com/gtag/js?id=G-78BEQKKVYD&cx=c&gtm=4e66u0h2",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_2",
+    "src": "js/analytics.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_3",
+    "src": "https://www.googletagmanager.com/gtag/js?id=UA-166958537-1",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_4",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "window.dataLayer = window.dataLayer || [];\n        function gtag() { dataLayer.push(arguments); }\n        gtag('js', new Date());\n\n        gtag('config', 'UA-166958537-1');",
+    "categories": [],
+    "functions": [
+      "gtag"
+    ]
+  },
+  {
+    "id": "script_5",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "//<![CDATA[\nvar theForm = document.forms['aspnetForm'];\nif (!theForm) {\n    theForm = document.aspnetForm;\n}\nfunction __doPostBack(eventTarget, eventArgument) {\n    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {\n        theForm.__EVENTTARGET.value = eventTarget;\n        theForm.__EVENTARGUMENT.value = eventArgument;\n        theForm.submit();\n    }\n}\n//]]>",
+    "categories": [
+      "postback"
+    ],
+    "functions": [
+      "__doPostBack"
+    ]
+  },
+  {
+    "id": "script_6",
+    "src": "/WebResource.axd?d=BayMCezD8XvrvgveJL7NURf1ZwggoPVyM7Azy9RELEDeozEDadElOKK1OmtKleKTbkwC5MxyRR4izP-NhA9-m7Rjzn41&t=638901734248157332",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_7",
+    "src": "/ScriptResource.axd?d=ZRl_HRH7Wke0zmP7SmEl0sZYQXajrBJXxRRKjecVYNtNYMy970nsJzRLuzMB4em4VfayNHJ4H9CGAykq7nZ0wW8jveyMIDdfhyPPp_mKh1BNWQNSyuGxRH5Fx3QYOGkZ9MLAp5iOSpeNH9WYOQHe5Mey8LM1&t=ffffffff93d1c106",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_8",
+    "src": "/ScriptResource.axd?d=wJnzxp0_m1SB-YAFiWkIS5lBQOu6-aGTs4O0936AXRLhJopOAQDy77cWy9M8iuJuYWVVERzlo-fV67qLqByqeWG50adXc-lGyyKJu7KBLjDfIpl3RDjDwG09nZLDKY-7mIzagA5kCmoIvB5Y-Qr2l_FneovT3UcL8teUuZAOG2VTW_Pq0&t=5c0e0825",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_9",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "//<![CDATA[\nif (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');\n//]]>",
+    "categories": []
+  },
+  {
+    "id": "script_10",
+    "src": "/ScriptResource.axd?d=zABiVb7D3T0BdA9J0RGsfaLu3u6fThVB8rxWP6kp0ac4IiK2cfyYcF4mR1_IYl25jsTyEwptCh02u4uvxB88dSrdQsxO8xcw0_itkaG7UdiAwsZJNp1O-dn776W1imY5BVi5SpJh94AIEBgltpj-h7F8eUGk_yn_63ebSm-hWH_jer3m0&t=5c0e0825",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_11",
+    "src": "/ScriptResource.axd?d=SZAF229YE1BzUkr8dWnGQ6frmjznn1s--Ayb928-6iH4oYBE-Qy3B5qaj76OOAIXHRT9xclKyJkAnJ8zbBT0o0xv9NfEZoQU4OfZAmAJCmzIkBdm1iwpgBtjjsyvGLlq_uchjjXsDeykbOHzgRR7SMhYeXo1&t=ffffffffe6d5c1dc",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_12",
+    "src": "/ScriptResource.axd?d=4WMj220ly8_LUuALPAEmhGazPiiGtzj_Fizqr8BSkaDvfljcR_Z4WWRNq_NlZGCwJ9hvvlnquoe9-zmDIBA9ukY-pHR0i3nKuv__iIgT8qVcVUdseCNVwKYVLQ4dUUe3kykDp5rSkgz_xDMvvo7rDa_OFjc1&t=ffffffffe6d5c1dc",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_13",
+    "src": "/ScriptResource.axd?d=leAbOU-Oohss4A1vmGoupOz81ye78rpVL51k4dII8hYcU9OAEfMTUsf-LaI1WH23plSxyCNkZUrDY0xqGrAxxyKmjfLAbt8x7KVj2bYPOgUt6KjMde2ukT0xsWqiMSvz0yITN98BdktmGLbR715vjaaaSWhvyAtOlYPURCThDu1IPZwR0&t=ffffffffe6d5c1dc",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_14",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "//<![CDATA[\nfunction WebForm_OnSubmit() {\nif (typeof(ValidatorOnSubmit) == \"function\" && ValidatorOnSubmit() == false) return false;\nreturn true;\n}\n//]]>",
+    "categories": [
+      "validation"
+    ],
+    "functions": [
+      "WebForm_OnSubmit"
+    ]
+  },
+  {
+    "id": "script_15",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "//<![CDATA[\nSys.WebForms.PageRequestManager._initialize('ctl00$sm', 'aspnetForm', ['tctl00$ContentPlaceHolder1$UpdatePaneldd1',''], [], [], 90, 'ctl00');\n//]]>",
+    "categories": [
+      "pan"
+    ]
+  },
+  {
+    "id": "script_16",
+    "src": "/vendor/main.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_17",
+    "src": "https://translation-plugin.bhashini.co.in/v4/website_translation_utility.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_18",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "function Call_Map() {\n            window.open('latlongtest.aspx?id=' + document.getElementById('ctl00_ContentPlaceHolder1_hdndtcode').value, '_blank', 'width=900,height=600, scrollbars=no,resizable=no');\n        }",
+    "categories": [],
+    "functions": [
+      "Call_Map"
+    ]
+  },
+  {
+    "id": "script_19",
+    "src": "js/datecheck.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_20",
+    "src": "bootstrap4/plugins/jquery/jquery.min.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_21",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "function masking(input, textbox) {\n            if (input.length == 4 || input.length == 9) {\n                input = input + '-';\n                textbox.value = input;\n            }\n        }",
+    "categories": [],
+    "functions": [
+      "masking"
+    ]
+  },
+  {
+    "id": "script_22",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "function DepCostWord() {\n            var tValue = document.getElementById('ctl00_ContentPlaceHolder1_txtDepCost').value;\n            if (tValue.length != 0) {\n                var finalWord = price_in_words(tValue);\n                document.getElementById('spanDepreciatedCost').innerHTML = '';\n                document.getElementById('spanDepreciatedCost').innerHTML = finalWord;\n            }\n            else { document.getElementById('spanDepreciatedCost').innerHTML = ''; }\n        }\n\n        function ExCostWord() {\n            var tValue = document.getElementById('ctl00_ContentPlaceHolder1_txtExCost').value;\n            if (tValue.length != 0) {\n                var finalWord = price_in_words(tValue);\n                document.getElementById('spanExclusionCost').innerHTML = '';\n                document.getElementById('spanExclusionCost').innerHTML = finalWord;\n            }\n            else { document.getElementById('spanExclusionCost').innerHTML = ''; }\n        }\n\n        function ExTurnoverAWord() {\n            var tValue = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverA').value;\n            if (tValue.length != 0) {\n                var finalWord = price_in_words(tValue);\n                document.getElementById('spanTotalTurnoverA').innerHTML = '';\n                document.getElementById('spanTotalTurnoverA').innerHTML = finalWord;\n            }\n            else { document.getElementById('spanTotalTurnoverA').innerHTML = ''; }\n        }\n\n        function ExTurnoverBWord() {\n            var tValue = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverB').value;\n            if (tValue.length != 0) {\n                var finalWord = price_in_words(tValue);\n                document.getElementById('spanTotalTurnoverB').innerHTML = '';\n                document.getElementById('spanTotalTurnoverB').innerHTML = finalWord;\n            }\n            else { document.getElementById('spanTotalTurnoverB').innerHTML = ''; }\n        }\n\n        function price_in_words(price) {\n            var sglDigit = [\"Zero\", \"One\", \"Two\", \"Three\", \"Four\", \"Five\", \"Six\", \"Seven\", \"Eight\", \"Nine\"],\n                dblDigit = [\"Ten\", \"Eleven\", \"Twelve\", \"Thirteen\", \"Fourteen\", \"Fifteen\", \"Sixteen\", \"Seventeen\", \"Eighteen\", \"Nineteen\"],\n                tensPlace = [\"\", \"Ten\", \"Twenty\", \"Thirty\", \"Forty\", \"Fifty\", \"Sixty\", \"Seventy\", \"Eighty\", \"Ninety\"],\n                handle_tens = function (dgt, prevDgt) {\n                    return 0 == dgt ? \"\" : \" \" + (1 == dgt ? dblDigit[prevDgt] : tensPlace[dgt])\n                },\n                handle_utlc = function (dgt, nxtDgt, denom) {\n                    return (0 != dgt && 1 != nxtDgt ? \" \" + sglDigit[dgt] : \"\") + (0 != nxtDgt || dgt > 0 ? \" \" + denom : \"\")\n                };\n\n            var str = \"\",\n                digitIdx = 0,\n                digit = 0,\n                nxtDigit = 0,\n                words = [];\n            if (price += \"\", isNaN(parseInt(price))) str = \"\";\n            else if (parseInt(price) > 0 && price.length <= 10) {\n                for (digitIdx = price.length - 1; digitIdx >= 0; digitIdx--) switch (digit = price[digitIdx] - 0, nxtDigit = digitIdx > 0 ? price[digitIdx - 1] - 0 : 0, price.length - digitIdx - 1) {\n                    case 0:\n                        words.push(handle_utlc(digit, nxtDigit, \"\"));\n                        break;\n                    case 1:\n                        words.push(handle_tens(digit, price[digitIdx + 1]));\n                        break;\n                    case 2:\n                        words.push(0 != digit ? \" \" + sglDigit[digit] + \" Hundred\" + (0 != price[digitIdx + 1] && 0 != price[digitIdx + 2] ? \" and\" : \"\") : \"\");\n                        break;\n                    case 3:\n                        words.push(handle_utlc(digit, nxtDigit, \"Thousand\"));\n                        break;\n                    case 4:\n                        words.push(handle_tens(digit, price[digitIdx + 1]));\n                        break;\n                    case 5:\n                        words.push(handle_utlc(digit, nxtDigit, \"Lakh\"));\n                        break;\n                    case 6:\n                        words.push(handle_tens(digit, price[digitIdx + 1]));\n                        break;\n                    case 7:\n                        words.push(handle_utlc(digit, nxtDigit, \"Crore\"));\n                        break;\n                    case 8:\n                        words.push(handle_tens(digit, price[digitIdx + 1]));\n                        break;\n                    case 9:\n                        words.push(0 != digit ? \" \" + sglDigit[digit] + \" Hundred\" + (0 != price[digitIdx + 1] || 0 != price[digitIdx + 2] ? \" and\" : \" Crore\") : \"\")\n                }\n                str = words.reverse().join(\"\")\n            } else str = \"\";\n            return str\n        }\n\n        function ValidateDate(osrc, args) {\n            var dt = args.Value\n            if (isDate(dt) == false) {\n\n                args.IsValid = false;\n                return false\n            }\n            else {\n                args.IsValid = true;\n                return true\n            }\n        }\n\n        function toASCII(source, args) {\n            var r1 = 0, r2 = 0;\n            for (var i = 0; i < args.Value.length; i++) {\n                r = args.Value.charCodeAt(i);\n                if ((r >= 32 && r <= 127) || r == 8 || r == 9 || r == 13 || r == 10) {\n                    r1 = 1;\n                }\n                else {\n                    r2 = 1;\n                    break;\n                }\n            }\n            if (r2 > 0) {\n                args.IsValid = false;\n                return false;\n            }\n            else {\n                args.IsValid = true;\n                return true;\n            }\n        }\n        function showDate(sender, args) {\n            if (sender._textbox.get_element().value == \"\") {\n                var todayDate = new Date();\n                sender._selectedDate = new Date(todayDate.setFullYear(todayDate.getFullYear()));\n            }\n        }\n\n        function ChngDateFormat(dtStr) {\n            var dtCh = \"/\";\n            var pos1 = dtStr.indexOf(dtCh)\n            var pos2 = dtStr.indexOf(dtCh, pos1 + 1)\n            var strMonth = dtStr.substring(pos1 + 1, pos2)\n            var strDay = dtStr.substring(0, pos1)\n            var strYear = dtStr.substring(pos2 + 1)\n            dtStr = strMonth + '/' + strDay + '/' + strYear;\n            return dtStr;\n        }\n\n        function calc_dateIncop(txt1) {\n            var txtdateIncorporation = new Date(ChngDateFormat(document.getElementById('ctl00_ContentPlaceHolder1_txtdateIncorporation').value));\n            var today = new Date();\n            var dd = today.getDate();\n            var mm = today.getMonth() + 1;\n            var yyyy = today.getFullYear();\n            if (dd < 10) {\n                dd = '0' + dd;\n            }\n            if (mm < 10) {\n                mm = '0' + mm;\n            }\n            var today = new Date(mm + '/' + dd + '/' + yyyy);\n            if (txtdateIncorporation >= today) {\n                alert('You can not select current & future Date ');\n                document.getElementById(txt1).value = '';\n                //  document.getElementById(txt1).focus();\n                return false;\n            }\n            return true;\n        }\n\n        function calc_dateComes(txt1) {\n            var txtcommencedate = new Date(ChngDateFormat(document.getElementById('ctl00_ContentPlaceHolder1_txtcommencedate').value));\n            var txtdateIncorporation = new Date(ChngDateFormat(document.getElementById('ctl00_ContentPlaceHolder1_txtdateIncorporation').value));\n            var today = new Date();\n            var dd = today.getDate();\n            var mm = today.getMonth() + 1;\n            var yyyy = today.getFullYear();\n            if (dd < 10) {\n                dd = '0' + dd;\n            }\n            if (mm < 10) {\n                mm = '0' + mm;\n            }\n            var today = new Date(mm + '/' + dd + '/' + yyyy);\n            if (txtcommencedate >= today) {\n                alert('You can not select current & future Date ');\n                document.getElementById(txt1).value = '';\n                // document.getElementById(txt1).focus();\n                return false;\n            }\n            if (txtdateIncorporation > txtcommencedate) {\n                alert('Date of Commencment is not earlier than Date of Incorporation ');\n                document.getElementById(txt1).value = '';\n                // document.getElementById(txt1).focus();\n                return false;\n            }\n            return true;\n        }\n\n        function calc_dateDob(txt1) {\n            var txtdob = new Date(ChngDateFormat(document.getElementById('ctl00_ContentPlaceHolder1_txtdob').value));\n            var today = new Date();\n            var dd = today.getDate();\n            var mm = today.getMonth() + 1;\n            var yyyy = today.getFullYear();\n            if (dd < 10) {\n                dd = '0' + dd;\n            }\n            if (mm < 10) {\n                mm = '0' + mm;\n            }\n            var today = new Date(mm + '/' + dd + '/' + yyyy);\n            if (txtdob > today) {\n                alert('You can not select future Date ');\n                document.getElementById(txt1).value = '';\n                // document.getElementById(txt1).focus();\n                return false;\n            }\n            return true;\n        }",
+    "categories": [
+      "pan"
+    ],
+    "functions": [
+      "DepCostWord",
+      "ExCostWord",
+      "ExTurnoverAWord",
+      "ExTurnoverBWord",
+      "price_in_words",
+      "ValidateDate",
+      "toASCII",
+      "showDate",
+      "ChngDateFormat",
+      "calc_dateIncop",
+      "calc_dateComes",
+      "calc_dateDob"
+    ]
+  },
+  {
+    "id": "script_23",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "var id = 0;\n        function CaptchaRefresh(img, src) {\n\n            id++;\n            document.getElementById(img).src = src + \"?id=\" + id;\n\n        }",
+    "categories": [],
+    "functions": [
+      "CaptchaRefresh"
+    ]
+  },
+  {
+    "id": "script_24",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "function checkDate(sender, args) {\n            if (sender._selectedDate > new Date()) {\n                alert(\"You cannot select future date!\");\n                //sender._selectedDate = new Date();\n                // set the date back to the current date ....\n                document.getElementById(\"ctl00_ContentPlaceHolder1_txtcommencedate\").value = \"\"\n                document.getElementById('').value = \"\";\n                //you can put the if condition for sunday's\n                sender._textbox.set_Value(sender._selectedDate.format(sender._format))\n            }\n        }\n        function checkIncorporationDate(sender, args) {\n            if (sender._selectedDate > new Date()) {\n                alert(\"You cannot select future date!\");\n                //sender._selectedDate = new Date();\n                // set the date back to the current date ....\n                document.getElementById(\"ctl00_ContentPlaceHolder1_txtdateIncorporation\").value = \"\"\n                document.getElementById('').value = \"\";\n                //you can put the if condition for sunday's\n                sender._textbox.set_Value(sender._selectedDate.format(sender._format))\n            }\n        }",
+    "categories": [],
+    "functions": [
+      "checkDate",
+      "checkIncorporationDate"
+    ]
+  },
+  {
+    "id": "script_25",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "function resetValidationState() {\n            window.Page_BlockSubmit = false;\n        }\n        function CountGridRowActivity(source, args) {\n            var gvRegProduct = document.getElementById('ctl00_ContentPlaceHolder1_hdnRegProduct').value;\n            if (gvRegProduct == 0) {\n                args.IsValid = false;\n                return false;\n            }\n            else {\n                args.IsValid = true;\n                return true;\n            }\n        }\n\n        function CountGridRowPlant(source, args) {\n            var gvRegPlant = document.getElementById('ctl00_ContentPlaceHolder1_hdnRegPlant').value;\n            if (gvRegPlant == 0) {\n                args.IsValid = false;\n                return false;\n            }\n            else {\n                args.IsValid = true;\n                return true;\n            }\n        }\n\n        function CaculateEmp() {\n            var personMale = document.getElementById('ctl00_ContentPlaceHolder1_txtNoofpersonMale').value;\n            var personFemale = document.getElementById('ctl00_ContentPlaceHolder1_txtNoofpersonFemale').value;\n            var personOthers = document.getElementById('ctl00_ContentPlaceHolder1_txtNoofpersonOthers').value;\n            if (personMale == \"\")\n                personMale = 0;\n            if (personFemale == \"\")\n                personFemale = 0;\n            if (personOthers == \"\")\n                personOthers = 0;\n            var result = parseInt(personMale) + parseInt(personFemale) + parseInt(personOthers);\n            if (!isNaN(result)) {\n                document.getElementById('ctl00_ContentPlaceHolder1_txttotalemp').value = result;\n            }\n        }\n\n        function CaculateTurnover() {\n            var TTurnoverA = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverA').value;\n            var TTurnoverB = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverB').value;\n\n            if (TTurnoverA == \"\")\n                TTurnoverA = 0;\n            if (TTurnoverB == \"\")\n                TTurnoverB = 0;\n\n            var result = parseInt(TTurnoverA) - parseInt(TTurnoverB);\n            if (!isNaN(result)) {\n                if (result < 0) {\n                    document.getElementById('ctl00_ContentPlaceHolder1_txtNetTurnover').value = 0;\n                }\n                else\n                    document.getElementById('ctl00_ContentPlaceHolder1_txtNetTurnover').value = result;\n            }\n        }\n\n        function CaculateInvestment() {\n            var TDepA = document.getElementById('ctl00_ContentPlaceHolder1_txtDepCost').value;\n            var TExB = document.getElementById('ctl00_ContentPlaceHolder1_txtExCost').value;\n\n            if (TDepA == \"\")\n                TDepA = 0;\n            if (TExB == \"\")\n                TExB = 0;\n\n            var result = parseInt(TDepA) - parseInt(TExB);\n            if (!isNaN(result)) {\n                if (parseInt(TDepA) < parseInt(TExB)) {\n                    document.getElementById('ctl00_ContentPlaceHolder1_txtNetInvestmentcost').value = 0;\n                } else {\n\n                    document.getElementById('ctl00_ContentPlaceHolder1_txtNetInvestmentcost').value = result;\n                }\n            }\n        }",
+    "categories": [],
+    "functions": [
+      "resetValidationState",
+      "CountGridRowActivity",
+      "CountGridRowPlant",
+      "CaculateEmp",
+      "CaculateTurnover",
+      "CaculateInvestment"
+    ]
+  },
+  {
+    "id": "script_26",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "function ConfirmSubmit() {\n            var flag = Page_ClientValidate('X');\n            if (flag)\n                flag = Page_ClientValidate('XP');\n            if (flag)\n                flag = Page_ClientValidate('XG');\n\n            if (flag)\n                flag = Page_ClientValidate('Y');\n            if (flag) {\n                if (Page_IsValid) {\n                    return confirm('Are you sure that you have entered correct data. Please check your mobile number is correct?');\n                }\n            }\n            return Page_IsValid;\n        }\n        function ConfirmSubmitfinal() {\n\n\n            var flag = Page_ClientValidate('Y');\n            if (flag)\n                flag = Page_ClientValidate('Z');\n\n            if (flag) {\n                if (Page_IsValid) {\n                    return confirm('Are you sure that you have entered correct data. After submit you will not able to change data?');\n                }\n            }\n            return Page_IsValid;\n\n\n        }",
+    "categories": [
+      "validation"
+    ],
+    "functions": [
+      "ConfirmSubmit",
+      "ConfirmSubmitfinal"
+    ]
+  },
+  {
+    "id": "script_27",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "function ClientValidatePan(source, arguments) {\n\n            var txt = document.getElementById('ctl00_ContentPlaceHolder1_txtPan');\n            var ddl = document.getElementById('ctl00_ContentPlaceHolder1_ddlTypeofOrg');\n            var decision = ddl.value;\n            if (decision == \"2\" || decision == \"3\" || decision == \"4\" || decision == \"5\" || decision == \"6\" || decision == \"7\" || decision == \"8\" || decision == \"9\" || decision == \"10\" || decision == \"11\") {\n                if (txt.value == '') {\n                    arguments.IsValid = false;\n                    return false;\n                }\n                else {\n                    arguments.IsValid = true;\n                    return true;\n                }\n            } else {\n                arguments.IsValid = true;\n                return true;\n            }\n        }\n        // function ValidateTurnover(source, args) {\n        //var TTurnoverA = document.getElementById('ctl00_ContentPlaceHolder1_txtTotalTurnoverA').value;\n\n\n        // if (TTurnoverA.value > 4000000) {\n        //args.IsValid = false;\n        // return false;\n        //  }\n        // else {\n        //     args.IsValid = true;\n        //     return true;\n        // }\n        // }\n\n        function ValidateTurnover(source, args) {\n            var chkLista = document.getElementById(\"ctl00_ContentPlaceHolder1_rblWhetherGstn\").getElementsByTagName(\"input\");\n            var TTurnoverA = document.getElementById(\"ctl00_ContentPlaceHolder1_txtTotalTurnoverA\").value;\n            if (TTurnoverA > 4000000 && chkLista[1].checked) {\n                args.IsValid = false;\n                return false;\n            }\n            else {\n                args.IsValid = true;\n                return true;\n            }\n        }",
+    "categories": [
+      "pan"
+    ],
+    "functions": [
+      "ClientValidatePan",
+      "ValidateTurnover",
+      "ValidateTurnover"
+    ]
+  },
+  {
+    "id": "script_28",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "function checkAgreement(source, args) {\n            var chkAgree = document.getElementById('ctl00_ContentPlaceHolder1_chkDecaration');\n            if (chkAgree.checked) {\n                args.IsValid = true;\n            }\n            else {\n                args.IsValid = false;\n            }\n        }\n\n        function checkAgreementA(source, args) {\n            var chkAgree = document.getElementById('ctl00_ContentPlaceHolder1_chkDecarationA');\n            if (chkAgree.checked) {\n                args.IsValid = true;\n            }\n            else {\n                args.IsValid = false;\n            }\n        }\n\n        function checkAgreementP(source, args) {\n            var chkAgree = document.getElementById('ctl00_ContentPlaceHolder1_chkDecarationP');\n            if (chkAgree.checked) {\n                args.IsValid = true;\n            }\n            else {\n                args.IsValid = false;\n            }\n        }",
+    "categories": [],
+    "functions": [
+      "checkAgreement",
+      "checkAgreementA",
+      "checkAgreementP"
+    ]
+  },
+  {
+    "id": "script_29",
+    "src": "https://www.googletagmanager.com/gtag/js?id=UA-166958537-1",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_30",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "window.dataLayer = window.dataLayer || [];\n        function gtag() { dataLayer.push(arguments); }\n        gtag('js', new Date());\n\n        gtag('config', 'UA-166958537-1');",
+    "categories": [],
+    "functions": [
+      "gtag"
+    ]
+  },
+  {
+    "id": "script_31",
+    "src": "js/jquery-3.7.1.min.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_32",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "function EmailAvailability() {\n            $.ajax({\n                type: \"POST\",\n                url: \"UdyamRegistration.aspx/CheckEmail\",\n                data: '{email: \"' + $(\"#ctl00_ContentPlaceHolder1_txtemail\")[0].value + '\" }',\n                contentType: \"application/json; charset=utf-8\",\n                dataType: \"json\",\n                success: OnSuccessEmail,\n                failure: function (response) {\n                    alert(response);\n                }\n            });\n        }\n\n        function OnSuccessEmail(response) {\n            var msg = $(\"#ctl00_ContentPlaceHolder1_lblEmail\")[0];\n            switch (response.d) {\n                case \"true\":\n                    msg.style.display = \"block\";\n                    msg.style.color = \"green\";\n                    msg.innerHTML = \"\";\n                    break;\n                case \"false\":\n                    msg.style.display = \"block\";\n                    msg.style.color = \"red\";\n                    msg.innerHTML = \"Registration with this Email has already done 5 times.\";\n                    $(\"#ctl00_ContentPlaceHolder1_txtemail\")[0].value = \"\";\n                    $(\"#ctl00_ContentPlaceHolder1_txtemail\")[0].focus();\n                    break;\n            }\n        }\n\n        function MobileAvailability() { //This function call on text change.             \n            $.ajax({\n                type: \"POST\",\n                url: \"UdyamRegistration.aspx/CheckMobile\", // this for calling the web method function in cs code.  \n                data: '{mobile: \"' + $(\"#ctl00_ContentPlaceHolder1_txtmobile\")[0].value + '\" }', //  email value  \n                contentType: \"application/json; charset=utf-8\",\n                dataType: \"json\",\n                success: OnSuccessMobile,\n                failure: function (response) {\n                    alert(response);\n                }\n            });\n        }\n        function OnSuccessMobile(response) {\n            var msg = $(\"#ctl00_ContentPlaceHolder1_lblMobile\")[0];\n            switch (response.d) {\n                case \"true\":\n                    msg.style.display = \"block\";\n                    msg.style.color = \"green\";\n                    msg.innerHTML = \"\";\n                    break;\n                case \"false\":\n                    msg.style.display = \"block\";\n                    msg.style.color = \"red\";\n                    msg.innerHTML = \"Registration with this Mobile No. has already done 5 times.\";\n                    $(\"#ctl00_ContentPlaceHolder1_txtmobile\")[0].value = \"\";\n                    $(\"#ctl00_ContentPlaceHolder1_txtmobile\")[0].focus();\n                    break;\n            }\n        }",
+    "categories": [],
+    "functions": [
+      "EmailAvailability",
+      "OnSuccessEmail",
+      "MobileAvailability",
+      "OnSuccessMobile"
+    ]
+  },
+  {
+    "id": "script_33",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "//<![CDATA[\nvar Page_Validators =  new Array(document.getElementById(\"ctl00_ContentPlaceHolder1_RequiredFieldValidator3\"), document.getElementById(\"ctl00_ContentPlaceHolder1_RequiredFieldValidator10\"), document.getElementById(\"ctl00_ContentPlaceHolder1_CustomValidator3\"));\n//]]>",
+    "categories": [
+      "validation"
+    ]
+  },
+  {
+    "id": "script_34",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "//<![CDATA[\nvar ctl00_ContentPlaceHolder1_RequiredFieldValidator3 = document.all ? document.all[\"ctl00_ContentPlaceHolder1_RequiredFieldValidator3\"] : document.getElementById(\"ctl00_ContentPlaceHolder1_RequiredFieldValidator3\");\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.controltovalidate = \"ctl00_ContentPlaceHolder1_txtadharno\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.focusOnError = \"t\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.errormessage = \"Required\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.display = \"Dynamic\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.validationGroup = \"X\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.evaluationfunction = \"RequiredFieldValidatorEvaluateIsValid\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator3.initialvalue = \"\";\nvar ctl00_ContentPlaceHolder1_RequiredFieldValidator10 = document.all ? document.all[\"ctl00_ContentPlaceHolder1_RequiredFieldValidator10\"] : document.getElementById(\"ctl00_ContentPlaceHolder1_RequiredFieldValidator10\");\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.controltovalidate = \"ctl00_ContentPlaceHolder1_txtownername\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.focusOnError = \"t\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.errormessage = \"Required\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.display = \"Dynamic\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.validationGroup = \"X\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.evaluationfunction = \"RequiredFieldValidatorEvaluateIsValid\";\nctl00_ContentPlaceHolder1_RequiredFieldValidator10.initialvalue = \"\";\nvar ctl00_ContentPlaceHolder1_CustomValidator3 = document.all ? document.all[\"ctl00_ContentPlaceHolder1_CustomValidator3\"] : document.getElementById(\"ctl00_ContentPlaceHolder1_CustomValidator3\");\nctl00_ContentPlaceHolder1_CustomValidator3.focusOnError = \"t\";\nctl00_ContentPlaceHolder1_CustomValidator3.errormessage = \"You must Agree Declarations.\";\nctl00_ContentPlaceHolder1_CustomValidator3.display = \"Dynamic\";\nctl00_ContentPlaceHolder1_CustomValidator3.validationGroup = \"X\";\nctl00_ContentPlaceHolder1_CustomValidator3.evaluationfunction = \"CustomValidatorEvaluateIsValid\";\nctl00_ContentPlaceHolder1_CustomValidator3.clientvalidationfunction = \"checkAgreementA\";\n//]]>",
+    "categories": [
+      "validation"
+    ]
+  },
+  {
+    "id": "script_35",
+    "src": null,
+    "type": "text/javascript",
+    "isInline": true,
+    "content": "//<![CDATA[\n\nvar Page_ValidationActive = false;\nif (typeof(ValidatorOnLoad) == \"function\") {\n    ValidatorOnLoad();\n}\n\nfunction ValidatorOnSubmit() {\n    if (Page_ValidationActive) {\n        return ValidatorCommonOnSubmit();\n    }\n    else {\n        return true;\n    }\n}\n        Sys.Application.add_init(function() {\n    $create(AjaxControlToolkit.FilteredTextBoxBehavior, {\"FilterType\":2,\"id\":\"ctl00_ContentPlaceHolder1_FilteredTextBoxExtender4\"}, null, null, $get(\"ctl00_ContentPlaceHolder1_txtadharno\"));\n});\n\ndocument.getElementById('ctl00_ContentPlaceHolder1_RequiredFieldValidator3').dispose = function() {\n    Array.remove(Page_Validators, document.getElementById('ctl00_ContentPlaceHolder1_RequiredFieldValidator3'));\n}\n\ndocument.getElementById('ctl00_ContentPlaceHolder1_RequiredFieldValidator10').dispose = function() {\n    Array.remove(Page_Validators, document.getElementById('ctl00_ContentPlaceHolder1_RequiredFieldValidator10'));\n}\n\ndocument.getElementById('ctl00_ContentPlaceHolder1_CustomValidator3').dispose = function() {\n    Array.remove(Page_Validators, document.getElementById('ctl00_ContentPlaceHolder1_CustomValidator3'));\n}\nSys.Application.add_init(function() {\n    $create(Sys.UI._UpdateProgress, {\"associatedUpdatePanelId\":\"ctl00_ContentPlaceHolder1_UpdatePaneldd1\",\"displayAfter\":500,\"dynamicLayout\":true}, null, null, $get(\"ctl00_ContentPlaceHolder1_UpdateProgress4\"));\n});\n//]]>",
+    "categories": [
+      "validation",
+      "pan"
+    ],
+    "functions": [
+      "ValidatorOnSubmit"
+    ]
+  },
+  {
+    "id": "script_36",
+    "src": "nd/assets/plugins/jquery/jquery.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_37",
+    "src": "nd/assets/plugins/bootstrap/js/popper.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_38",
+    "src": "nd/assets/plugins/bootstrap/js/bootstrap.min.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_39",
+    "src": "nd/assets/plugins/counterup/jquery.easing.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_40",
+    "src": "nd/assets/plugins/slick-carousel/slick/slick.min.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_41",
+    "src": "nd/assets/plugins/counterup/jquery.waypoints.min.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_42",
+    "src": "nd/assets/plugins/shuffle/shuffle.min.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_43",
+    "src": "nd/assets/plugins/counterup/jquery.counterup.min.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_44",
+    "src": "nd/assets/plugins/google-map/map.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_45",
+    "src": "nd/assets/js/script.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_46",
+    "src": "nd/assets/js/contact.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  },
+  {
+    "id": "script_47",
+    "src": "https://translation-plugin.bhashini.co.in/v4/website_translation_utility.js",
+    "type": "text/javascript",
+    "isInline": false,
+    "content": null,
+    "categories": []
+  }
+]

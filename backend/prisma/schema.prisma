@@ -1,0 +1,57 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Entrepreneur {
+  id                  String      @id @default(uuid())
+  aadhaarNumber       String      @unique
+  entrepreneurName    String
+  username            String?     @unique
+  mobileNumber        String?
+  email               String?
+  
+  otpVerified         Boolean     @default(false)
+  isRegistered        Boolean     @default(false)
+
+  enterprise          Enterprise?
+
+  createdAt           DateTime    @default(now())
+  updatedAt           DateTime    @updatedAt
+}
+
+model Enterprise {
+  id                  String      @id @default(uuid())
+  panNumber           String      @unique
+  typeOfEnterprise    String
+  typeOfOrganization  String
+  businessName        String
+  dateOfIncorporation String?
+
+  entrepreneurId      String      @unique
+  entrepreneur        Entrepreneur @relation(fields: [entrepreneurId], references: [id], onDelete: Cascade)
+
+  address             Address?
+
+  createdAt           DateTime    @default(now())
+  updatedAt           DateTime    @updatedAt
+}
+
+model Address {
+  id                  String      @id @default(uuid())
+  addressLine1        String
+  addressLine2        String?
+  state               String
+  district            String
+  pinCode             String
+
+  enterpriseId        String      @unique
+  enterprise          Enterprise  @relation(fields: [enterpriseId], references: [id], onDelete: Cascade)
+
+  createdAt           DateTime    @default(now())
+  updatedAt           DateTime    @updatedAt
+}

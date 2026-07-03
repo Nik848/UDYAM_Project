@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ctl00_ContentPlaceHolder1_RequiredFieldValidator3",
+    "type": "RequiredFieldValidatorEvaluateIsValid",
+    "targetControl": "ctl00_ContentPlaceHolder1_txtadharno",
+    "errorMessage": "Required",
+    "validationGroup": "X",
+    "validationExpression": null,
+    "initialValue": null,
+    "evaluationFunction": "function RequiredFieldValidatorEvaluateIsValid(val) {\r\n    return (ValidatorTrim(ValidatorGetValue(val.controltovalidate)) != ValidatorTrim(val.initialvalue))\r\n}"
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_RegularExpressionValidator1",
+    "type": "RegularExpressionValidatorEvaluateIsValid",
+    "targetControl": "ctl00_ContentPlaceHolder1_txtadharno",
+    "errorMessage": "Invalid Aadhaar Number format",
+    "validationGroup": "X",
+    "validationExpression": "^[2-9]\\d{11}$",
+    "initialValue": null,
+    "evaluationFunction": null
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_RequiredFieldValidator10",
+    "type": "RequiredFieldValidatorEvaluateIsValid",
+    "targetControl": "ctl00_ContentPlaceHolder1_txtownername",
+    "errorMessage": "Required",
+    "validationGroup": "X",
+    "validationExpression": null,
+    "initialValue": null,
+    "evaluationFunction": "function RequiredFieldValidatorEvaluateIsValid(val) {\r\n    return (ValidatorTrim(ValidatorGetValue(val.controltovalidate)) != ValidatorTrim(val.initialvalue))\r\n}"
+  },
+  {
+    "id": "ctl00_ContentPlaceHolder1_CustomValidator3",
+    "type": "CustomValidatorEvaluateIsValid",
+    "targetControl": null,
+    "errorMessage": "You must Agree Declarations.",
+    "validationGroup": "X",
+    "validationExpression": null,
+    "initialValue": null,
+    "evaluationFunction": "function CustomValidatorEvaluateIsValid(val) {\r\n    var value = \"\";\r\n    if (typeof(val.controltovalidate) == \"string\") {\r\n        value = ValidatorGetValue(val.controltovalidate);\r\n        if ((ValidatorTrim(value).length == 0) &&\r\n            ((typeof(val.validateemptytext) != \"string\") || (val.validateemptytext != \"true\"))) {\r\n            return true;\r\n        }\r\n    }\r\n    var args = { Value:value, IsValid:true };\r\n    if (typeof(val.clientvalidationfunction) == \"string\") {\r\n        eval(val.clientvalidationfunction + \"(val, args) ;\");\r\n    }\r\n    return args.IsValid;\r\n}"
+  }
+]
